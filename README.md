@@ -13,11 +13,11 @@ npm i @y14e/parent-checkbox
 import ParentCheckbox from '@y14e/parent-checkbox';
 
 // CDNs
-import ParentCheckbox from 'https://esm.sh/@y14e/parent-checkbox@1.0.10';
+import ParentCheckbox from 'https://esm.sh/@y14e/parent-checkbox@1.0.11';
 // or
-import ParentCheckbox from 'https://cdn.jsdelivr.net/npm/@y14e/parent-checkbox@1.0.10/+esm';
+import ParentCheckbox from 'https://cdn.jsdelivr.net/npm/@y14e/parent-checkbox@1.0.11/+esm';
 // or
-import ParentCheckbox from 'https://esm.unpkg.com/@y14e/parent-checkbox@1.0.10';
+import ParentCheckbox from 'https://esm.unpkg.com/@y14e/parent-checkbox@1.0.11';
 ```
 
 ## Usage
@@ -39,6 +39,7 @@ Destroys the instance and cleans up all event listeners.
 checkbox.destroy();
 // => void
 ```
+
 ## Demo
 
 https://y14e.github.io/parent-checkbox/
